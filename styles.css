@@ -1,0 +1,32 @@
+*{
+   
+    margin:20px;
+
+}
+
+.intro{
+    color:rgb(112, 68, 11);
+    font-size: 40px;
+}
+.intro h1{
+    color:rgb(119, 82, 82);
+    text-decoration: underline;
+}
+
+.intro em{
+    color:orange;
+}
+
+.photo{
+   
+   font-size: 50px;
+   color: rgb(172, 149, 22);
+}
+.photo img{
+    height: 500px;
+    width: 500px;
+    
+}
+span{
+    color:rgb(75, 75, 138);
+}
